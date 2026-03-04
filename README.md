@@ -10,7 +10,18 @@ It is designed to help students, researchers, and security enthusiasts understan
 This project demonstrates how **Artificial Intelligence can enhance cybersecurity research, threat detection, and vulnerability analysis.**
 
 ---
+# THE CYBER WAR – Artificial Intelligence in Cyber Security
 
+<p align="center">
+  <img src="IMG/1.png" width="22%">
+  <img src="IMG/2.png" width="22%">
+  <img src="IMG/3.png" width="22%">
+  <img src="IMG/4.png" width="22%">
+</p>
+
+---
+
+## AI Powered Cyber Security Platform
 # Project Structure
 
 The repository is organized based on the **presentation slides and system modules**.
